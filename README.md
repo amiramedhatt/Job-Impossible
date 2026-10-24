@@ -59,7 +59,3 @@ Players navigate seemingly impossible environments, experiment with spatial mech
 
 This project is being developed as part of a Computer Science graduation project at New Giza University (NGU), with a planned completion date of June 2027.
 
-
-## 📄 License
-
-A license will be specified when the project is ready for distribution.
