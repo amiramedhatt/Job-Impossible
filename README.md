@@ -2,7 +2,7 @@
 
 **Job Impossible** is a Unity-based 3D puzzle game that explores unconventional spatial mechanics to create challenging and immersive environments. The project investigates how spatial puzzles can encourage skills relevant to recruitment and employee training, including adaptability, creative problem-solving, and critical thinking.
 
-##About the Project
+## About the Project
 
 Traditional recruitment and employee training methods can be time-consuming and resource-intensive. Job Impossible explores an alternative approach through interactive puzzles that challenge players to think differently, adapt to unfamiliar situations, and approach problems from multiple perspectives.
 
@@ -39,13 +39,13 @@ Players navigate seemingly impossible environments, experiment with spatial mech
 - **Skills Explored:** Critical thinking and perspective-taking.
 - **Objective:** Discover hidden clues and solve puzzles by exploring different viewing angles and challenging initial assumptions.
 
-##Technologies
+## Technologies
 
 - **Game Engine:** Unity
 - **Programming Language:** C#
 - **Graphics and Shaders:** Unity Shader Graph and custom shaders
 
-##Project Objectives
+## Project Objectives
 
 - Develop a playable 3D puzzle game featuring unconventional spatial mechanics.
 - Design puzzles that encourage adaptability and creative problem-solving.
@@ -53,7 +53,7 @@ Players navigate seemingly impossible environments, experiment with spatial mech
 - Investigate the potential of game-based challenges for recruitment and employee training.
 - Evaluate gameplay through player testing and feedback.
 
-##Project Status
+## Project Status
 
 **In Development**
 
