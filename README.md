@@ -57,5 +57,5 @@ Players navigate seemingly impossible environments, experiment with spatial mech
 
 **In Development**
 
-This project is being developed as part of a Computer Science graduation project at New Giza University (NGU), with a planned completion date of June 2027.
+This project is being developed as part of a Computer Science graduation project at New Giza University (NGU), with a planned completion date of May 2027.
 
